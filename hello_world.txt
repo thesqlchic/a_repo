@@ -1,3 +1,6 @@
 this is my first text file
 
 this is a dev version
+
+--updating git
+this is my update
